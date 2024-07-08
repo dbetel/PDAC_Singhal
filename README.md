@@ -1,6 +1,9 @@
 # PDAC_Singhal
 Code repository for Singhal et al. PDAC study
 
+
+[A classical epithelial state drives acute resistance to KRAS inhibition in pancreas cancer](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-0740/746288/A-classical-epithelial-state-drives-acute)
+
 Analysis of scRNA-seq data in python
 
 
@@ -17,7 +20,7 @@ Gene set enrichment analysis to determine programs upregulated in basal and clas
 
 ## Data
 
-Data used for Singhal etal can be found at GEOXXXXX.
+Data used for Singhal etal can be found at [GSE271300](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271300).
 
 Conda environment to run notebooks can be created using singhalEtal.yml file. 
 

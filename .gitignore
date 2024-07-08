@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
 
+
+/AnalysisNotebooks/write/*
+
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
